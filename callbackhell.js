@@ -1,4 +1,4 @@
-function hell(){
+setTomeout(()=>{
     document.getElementById('counter').innerHTML="10";
     setTimeout(function(){
         document.getElementById('counter').innerHTML="9"
@@ -29,5 +29,4 @@ function hell(){
             },1000)
         },1000)
     },1000)
-}
-hell();
+},500);
