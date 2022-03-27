@@ -1,4 +1,4 @@
-setTomeout(()=>{
+setTimeout(()=>{
     document.getElementById('counter').innerHTML="10";
     setTimeout(function(){
         document.getElementById('counter').innerHTML="9"
