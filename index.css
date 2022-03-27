@@ -2,11 +2,10 @@
   background-color: black;
   color: yellow;
   font-size: 30px;
-  height: 300px;
   width: 300px;
   padding: 20px;
   display: flex;
   /* flex-direction: center; */
   /* text-align: center; */
-  border: 10px solid orangered;
+  border: 2px solid cyan;
 }
